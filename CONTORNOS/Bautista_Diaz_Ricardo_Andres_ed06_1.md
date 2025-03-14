@@ -8,14 +8,14 @@ manera sencilla y eficaz
 
 ## Características
 
-- Creación y edicion de tareas
-- Asignacion de fechas limite y prioridades
+- :heavy_check_mark: Creación y edicion de tareas
+- :calendar: Asignacion de fechas limite y prioridades
   - Prioridad baja, media y alta
   - Fechas limite de personalizacion con control de calendario
-- Organización en categorias y etiquetas
-- Marcar tareas como completadas
-- Notificaciones y recordatorios automaticos
-- Visualización en lista y tablero kanban
+- :file_folder: Organización en categorias y etiquetas
+- :white_check_mark: Marcar tareas como completadas
+- :bell: Notificaciones y recordatorios automaticos
+- :bar_chart: Visualización en lista y tablero kanban
 
 ## Instalación
 
