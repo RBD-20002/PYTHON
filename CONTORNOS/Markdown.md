@@ -20,17 +20,20 @@
 /*Listados*/
 
 /*sin ordenar*/
+
 - Lista nivel 1
   - Lista nivel 2
     - Lista nivel 3
 
 /*ordenado*/
+
 1. Lista nivel 1
    1. Lista sub nivel 2
       1. Lista subsub nivel 3
 
 
 /*Lista de tareas*/
+
 - [x] tarea 1
 - [x] Tarea 2
 
@@ -74,8 +77,10 @@ Esto es texto plano
 
 /*Enlaces*/
 
-![Texto alternativo](https://imgs.search.brave.com/dEgm3tSfl92359icxhxo-gs5m409bVhKCQkQmW7lwds/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tYXJr/ZG93bi5uZXQuYnIv/YXNzZXRzL2ltZy9t/YXJrZG93bi5qcGc)
+- foto
+![Texto alternativo](https://imgs.search.brave.com/dEgm3tSfl92359icxhxo-gs5m409bVhKCQkQmW7lwds/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tYXJr/ZG93bi5uZXQuYnIv/YXNzZXRzL2ltZy9t/YXJrZG93bi5qcGc)  
 
+- enlace al mismo markdown
 [Enlace a una pagina web](https://markdown.es/)
 
 /*Escapado de caracteres*/
@@ -120,5 +125,8 @@ journey
       Sit down: 5: Me
 ```
 
+/*Ecuaciones*/
 
-prueba
+$E=mc^2$ 
+
+$$F = G \frac{m_1 m_2}{r^2}$$
